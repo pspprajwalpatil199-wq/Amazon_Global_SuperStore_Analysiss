@@ -1,0 +1,1 @@
+This project analyzes the Amazon Global Superstore dataset to identify sales trends, profit performance, customer segmentation, and regional insights. The objective is to derive actionable business insights using data visualization and analytical techniques.
